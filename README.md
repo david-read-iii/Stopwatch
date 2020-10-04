@@ -1,2 +1,2 @@
 # Android Studio Stopwatch Tutorial
-Source code from the Android Development Workshop. Is a simple stopwatch with controls to start, stop, and reset it. It also has some basic styles applied to some of the user interface elements.
+Source code from the Android Development Workshop by David Read. Note, some source code is adapted from Code in Flow's stopwatch tutorial. Their source code can be found at https://codinginflow.com/tutorials/android/chronometer. This is a simple stopwatch with controls to start, stop, and reset it. It also has some basic styles applied to some of the user interface elements.
