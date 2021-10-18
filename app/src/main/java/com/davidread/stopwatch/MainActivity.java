@@ -2,7 +2,7 @@
  * This file was adapted from Code in Flow's stopwatch tutorial. Their source code can be found
  * here: https://codinginflow.com/tutorials/android/chronometer.
  *************************************************************************************************/
-package com.example.stopwatch;
+package com.davidread.stopwatch;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,6 +10,8 @@ import android.os.Bundle;
 import android.os.SystemClock;
 import android.view.View;
 import android.widget.Chronometer;
+
+import com.davidread.stopwatch.R;
 
 public class MainActivity extends AppCompatActivity {
 

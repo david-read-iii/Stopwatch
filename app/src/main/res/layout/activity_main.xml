@@ -10,7 +10,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context="com.davidread.stopwatch.MainActivity">
 
     <Chronometer
         android:id="@+id/chronometer"

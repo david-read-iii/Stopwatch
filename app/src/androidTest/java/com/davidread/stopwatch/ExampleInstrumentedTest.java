@@ -1,4 +1,4 @@
-package com.example.stopwatch;
+package com.davidread.stopwatch;
 
 import android.content.Context;
 
